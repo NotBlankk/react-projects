@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Nicholas McEntyre",
+            "title": "Winner of Powerball's second-largest jackpot worth $1.765B revealed - New York Post ",
+            "description": "The brand-new billionaire was described as a 65-year-old resident of the mountain town of approximately 3,000 people who lives only 500 yards from the store.",
+            "url": "https://nypost.com/2024/03/16/us-news/powerball-1-765-billion-jackpot-winner-theodorus-struyck-revealed-in-california/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/powerball.jpg?quality=75&strip=all&1710551248&w=1024",
+            "publishedAt": "2024-03-16T05:37:08Z",
+            "content": "Golden State billionaire!\r\nThe winner of Powerball’s second largest jackpot prize worth $1.765B was revealed Friday five months after the life-changing drawing. \r\nTheodorus Struyck was named as the r… [+3515 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Saturday, March 16, 2024 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/horoscopes/2024/03/16/horoscopes-today-saturday-march-16-2024",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/0b5fddf/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F22064263%2FGeorgia_Nicols.jpg",
+            "publishedAt": "2024-03-16T05:04:16Z",
+            "content": "Moon Alert\r\nAvoid shopping or important decisions after 11:15 p.m. Chicago time. The moon is in Gemini.\r\nAries (March 21-April 19)\r\nYou have a lot of mental energy, which is why you're pumped with en… [+3930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Jupiter Unveiled: Hubble Captures the Giant's Roaring Storms and Volcanic Moon Io - SciTechDaily",
+            "description": "Cyclones, Wind Shear, Violent Storms Churn in Jupiter's Atmosphere The largest and nearest of the giant outer planets, Jupiter's colorful clouds present an ever-changing kaleidoscope of shapes and colors. This is a planet where there is always stormy weather:…",
+            "url": "https://scitechdaily.com/jupiter-unveiled-hubble-captures-the-giants-roaring-storms-and-volcanic-moon-io/",
+            "urlToImage": "https://scitechdaily.com/images/Hubble-2024-Jupiter-scaled.jpg",
+            "publishedAt": "2024-03-16T02:58:06Z",
+            "content": "NASA’s Hubble Space Telescope captured new images of Jupiter on January 5-6, 2024, revealing dynamic weather patterns and notable storms like the Great Red Spot and Red Spot Jr. The observations are … [+6761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Tuhin Das Mahapatra",
+            "title": "Measles outbreak paralyzes Chicago, Here's what parents need to know - Hindustan Times",
+            "description": "Amidst a national measles outbreak, Chicago faces its own battle with the virus.",
+            "url": "https://www.hindustantimes.com/world-news/us-news/measles-outbreak-paralyzes-chicago-heres-what-parents-need-to-know-101710554759886.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/16/1600x900/Britain-Measles-0_1710556251890_1710556286477.jpg",
+            "publishedAt": "2024-03-16T02:39:21Z",
+            "content": "Chicago is grappling with a measles outbreak, with 12 confirmed cases reported, including 10 linked to the citys largest migrant centre. This situation has sparked a serious concern about the citys h… [+3754 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOSHUA A. BICKEL, JOHN SEEWER",
+            "title": "Tornadoes kill 3 and leave trails of destruction in the central US - The Associated Press",
+            "description": "The death toll still stands at three from a series of tornadoes that tore through the central U.S. An Ohio sheriff in what appeared to be the hardest hit area says it’s a surprise more people weren’t killed in Thursday night’s storms. Search crews in Ohio’s L…",
+            "url": "https://apnews.com/article/tornado-indiana-ohio-severe-weather-731ed36b02cd521590ac8f5dbc4509f5",
+            "urlToImage": "https://dims.apnews.com/dims4/default/2358264/2147483647/strip/true/crop/5568x3132+0+290/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2Feb%2F2442e6d567721c7ef49d3e085f42%2Fb2963c20157f495dae6322e504190172",
+            "publishedAt": "2024-03-16T02:36:00Z",
+            "content": "LAKEVIEW, Ohio (AP) Blaine Schmidt sifted through the broken glass and splintered wood throughout his Ohio home Friday, salvaging a guitar and a bundle of diapers.\r\nHis couch and a crib had been ripp… [+4309 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Caitlin Stephen Hu, David Culver, Evelio Contreras, Tara John",
+            "title": "Inside Haiti: A lucky few escape, while millions face gang rule, hunger and chaos - CNN",
+            "description": "The only thing coming into Haiti’s violent capital Port-au-Prince are the private evacuation helicopters – a bitter reminder of the inequality that has plagued Haiti for decades.",
+            "url": "https://www.cnn.com/2024/03/15/americas/haiti-port-au-prince-gangs-escape-intl-latam/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240315201412-culver-heli-vpx.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-16T02:16:00Z",
+            "content": "Port-au-Prince, HaitiCNN\r\n  — \r\nIn a city silenced by gangs, everyone notices the thrum of a helicopter beating overhead in the night a brief sign that someone very lucky has been able to leave Port-… [+5231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Gabrielle Chung",
+            "title": "Cara Delevingne's Parents Reveal Cause of Her Devastating House Fire - Yahoo Entertainment",
+            "description": "Cara Delevingne's parents Pandora and Charles Delevingne shared details on how the supermodel's Los Angeles home burned down, adding, \"She had everything in ...",
+            "url": "https://www.yahoo.com/entertainment/cara-delevingnes-parents-reveal-cause-014041691.html",
+            "urlToImage": "https://media.zenfs.com/en/e__181/2f0afe1480b881b3c7051337e0019884",
+            "publishedAt": "2024-03-16T01:40:00Z",
+            "content": "Originally appeared on E! Online\r\nMore details surrounding Cara Delevingne's house fire have emerged.\r\nThe supermodel's Los Angeles home was heavily destroyed by flames in the early hours of March 15… [+1938 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MICHAEL R. SISAK, ERIC TUCKER",
+            "title": "Delays in Trump's criminal cases are increasing. Which trials are delayed and why? - The Associated Press",
+            "description": "Delays in Donald Trump’s criminal cases are increasing the possibility Americans will be deep into the presidential election season before they know whether or not he has been convicted of any wrongdoing. The former president’s Washington D.C. election interf…",
+            "url": "https://apnews.com/article/donald-trump-hush-money-new-york-trials-delays-f0457777333405498fe7d106756b712a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/2560693/2147483647/strip/true/crop/2721x1531+0+142/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2F26%2Feabb3984a310393af6c49e8f8999%2Fe6c508fea7fd469a82e92fa67a172d71",
+            "publishedAt": "2024-03-16T01:32:00Z",
+            "content": "NEW YORK (AP) Delays in Donald Trumps criminal cases are increasing the possibility Americans will be deep into the presidential election season before they know whether or not he has been convicted … [+8282 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Morik",
+            "title": "Jets expected to sign eight-time Pro Bowl offensive lineman Tyron Smith: report - Fox News",
+            "description": "The New York Jets are reportedly expected to sign eight-time Pro Bowl offensive lineman Tyron Smith after he spent 12 seasons with the Dallas Cowboys.",
+            "url": "https://www.foxnews.com/sports/jets-expected-sign-eight-time-pro-bowl-offensive-lineman-tyron-smith",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/GettyImages-1237989476.jpg",
+            "publishedAt": "2024-03-16T01:31:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+2298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": "The Times of Israel",
+            "title": "‘Zone of Interest’ producer criticizes Glazer’s Oscars speech: Lacked ‘proper context’ - The Times of Israel",
+            "description": null,
+            "url": "https://www.timesofisrael.com/zone-of-interest-producer-criticizes-glazers-oscars-speech-lacked-proper-context/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-16T01:09:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "DASHA LITVINOVA, JIM HEINTZ",
+            "title": "Russia elections: Voting begins in polls that Putin is all but certain to win - The Associated Press",
+            "description": "Russia has begun three days of voting in a presidential election that is all but certain to extend President Vladimir Putin’s rule for six more years after he stifled dissent. The vote takes place against the backdrop of a ruthless crackdown that has crippled…",
+            "url": "https://apnews.com/article/russia-election-2024-updates-227e65cb2a3f2c4cfdb58a9525fbe884",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f51839d/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2F73%2F80ea2c4feb7a834287be091432e2%2F816123b8e9684063a0356ea398d32de9",
+            "publishedAt": "2024-03-16T00:55:00Z",
+            "content": "Russia began three days of voting Friday in a presidential election that is all but certain to extend President Vladimir Putins rule for six more years after he stifled dissent.\r\nAt least half a doze… [+7014 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Highlights | Day 2 | THE PLAYERS | 2024 - PGA TOUR",
+            "description": "Check out the best shots from Day 2 of THE PLAYERS Championship 2024, featuring Wyndham Clark, Xander Schauffele, Nick Taylor, Scottie Scheffler, and Rory Mc...",
+            "url": "https://www.youtube.com/watch?v=xLd-W-_qYDE",
+            "urlToImage": "https://i.ytimg.com/vi/xLd-W-_qYDE/maxresdefault.jpg",
+            "publishedAt": "2024-03-16T00:44:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Michael Guise",
+            "title": "Primanti Bros. offers $25 gift card for Steelers Kenny Pickett jerseys - CBS Pittsburgh",
+            "description": "Kenny Pickett was reportedly traded on Friday to the Philadelphia Eagles.",
+            "url": "https://www.cbsnews.com/pittsburgh/news/primanti-bros-paying-money-kenny-pickett-jerseys/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/15/bdf38b69-cbcb-493f-9544-655fbb53d3c6/thumbnail/1200x630/8e0fca75a1d97318ab0ce9c6fb5549f3/gettyimages-1242792257.jpg?v=d1d78866939020fc1f2607ef7298e4ec",
+            "publishedAt": "2024-03-16T00:20:00Z",
+            "content": "PITTSBURGH (KDKA) — Primanti Bros. has a unique offer for anyone with a Kenny Pickett jersey. \r\nIn a news release on Friday night, Primanti Bros. said anyone who exchanges their Pittsburgh Steelers K… [+1138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Real estate fees could fall after settlement with US agents - BBC.com",
+            "description": "The agreement in a case against US real estate agents is expected to reduce the standard 6% commission fee.",
+            "url": "https://www.bbc.com/news/world-us-canada-68582949",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/117F9/production/_132937617_forsale.jpg",
+            "publishedAt": "2024-03-15T23:23:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSAT San Antonio"
+            },
+            "author": "John Paul Barajas, Adam Barraza",
+            "title": "Colon cancer growing danger for particular age group, San Antonio doctor says - KSAT San Antonio",
+            "description": "March is Colorectal Cancer Awareness Month; the American Cancer Society estimates that 53,000 Americans will die from it in 2024.",
+            "url": "https://www.ksat.com/news/local/2024/03/15/colon-cancer-growing-danger-for-particular-age-group-san-antonio-doctor-says/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-15-2024/t_7fa7c4b98bb9446f97e3ae7b28a71a26_name_image.jpg?_a=ATAPphC0",
+            "publishedAt": "2024-03-15T23:17:50Z",
+            "content": "SAN ANTONIO Its one of the deadliest cancers in America. But do you know the signs of colorectal cancer?\r\nMarch is Colorectal Cancer Awareness Month; the American Cancer Society estimates that 53,000… [+1414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Zak Doffman",
+            "title": "Google Chrome Warning Issued For All Windows Users - Forbes",
+            "description": "Is this new \"malware\" targeting your device...",
+            "url": "https://www.forbes.com/sites/zakdoffman/2024/03/15/google-chrome-warning-microsoft-windows-10-windows-11-free-upgrade/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5e66cbd8e1e6170007593a74/0x0.jpg?format=jpg&crop=3190,1767,x418,y544,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-03-15T23:15:39Z",
+            "content": "If youre one of the billion-plus users of Google Chrome on Windows, then you have just been warned that what might look like malware hijacking your browser is not what it seems...\r\nA serious new warn… [+4272 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Veronica Stracqualursi",
+            "title": "Pence says he ‘cannot in good conscience’ endorse Trump - CNN",
+            "description": "Former Vice President Mike Pence on Friday said he “cannot in good conscience” endorse presumptive GOP nominee Donald Trump, arguing that Trump is pursuing an agenda that is “at odds with the conservative agenda.”",
+            "url": "https://www.cnn.com/2024/03/15/politics/pence-will-not-endorse-trump/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231015134657-01-mike-pence-091523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-15T23:02:00Z",
+            "content": "Former Vice President Mike Pence on Friday said he cannot in good conscience endorse presumptive GOP nominee Donald Trump, a stunning repudiation of his former running mate and the president he serve… [+2405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Gaza aid reaches shore in first sea delivery - BBC.com",
+            "description": "The first crates of food are on dry ground, but how it will be distributed in Gaza remains unclear.",
+            "url": "https://www.bbc.com/news/world-middle-east-68581090",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FCFB/production/_132936746_3ec715251156ad22b7b92d89053e8ed70d01fcbf.jpg",
+            "publishedAt": "2024-03-15T22:36:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Maine Public"
+            },
+            "author": "Kevin Miller",
+            "title": "Commission: Sheriff had cause to take Lewiston gunman into custody 6 weeks before shootings - Maine Public",
+            "description": "An interim report from the independent Lewiston shooting commission said it was an \"abdication of law enforcement's responsibility\" when they chose to rely on Robert Card's family to remove his guns.",
+            "url": "https://www.mainepublic.org/maine/2024-03-15/commission-sheriff-had-cause-to-take-lewiston-gunman-into-custody-6-weeks-before-shootings",
+            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/c4a6bce/2147483647/strip/true/crop/5283x2774+0+374/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdc%2F7a%2Fb86ec152450e935377c536ab135e%2Fap24025587450749.jpg",
+            "publishedAt": "2024-03-15T22:29:00Z",
+            "content": "The independent commission investigating last October's mass shooting in Lewiston released an interim report on Friday critical of how police handled concerns about the shooter's deteriorating mental… [+7172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Christine Idzelis, , Joseph Adinolfi",
+            "title": "U.S. stocks end lower as tech weighs on S&P 500 ahead of Fed meeting - MarketWatch",
+            "description": "Dow books third straight weekly decline",
+            "url": "https://www.marketwatch.com/story/dow-futures-inch-higher-as-inflation-jitters-cap-gains-c377d4a3",
+            "urlToImage": "https://images.mktw.net/im-96067118/social",
+            "publishedAt": "2024-03-15T21:58:00Z",
+            "content": "All three major U.S. equity indexes ended lower Friday, with the S&amp;P 500 weighed down by tech stocks.For the week, the Dow slipped less than 0.1%, the S&amp;P 500 shed 0.1% and the tech-heavy Nas… [+3375 chars]"
+        }
+    ]
+}
